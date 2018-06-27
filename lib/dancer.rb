@@ -1,4 +1,4 @@
-require_relative '.fancy_dance.rb'
+require_relative './lib/fancy_dance.rb'
 
 class Dancer
   extend FancyDance::ClassMethods
